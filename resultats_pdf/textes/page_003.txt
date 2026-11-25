@@ -1,0 +1,11 @@
+PROJET IA GÉNÉRATIVE MULTIMODALE ET AGENTIQUE
+
+4. Livrables attendus
+•  Code source documenté (indexation, recherche, génération et orchestration).
+•  Base PGVector alimentée avec les contenus du PDF et leurs métadonnées.
+•   Interface Streamlit fonctionnelle avec démonstration sur un PDF multimodal.
+•   Note technique décrivant les modèles choisis, les outils, les limites et des exemples de
+    questions/réponses.
+
+
+5. Schéma original du tableau

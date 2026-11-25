@@ -1,0 +1,11 @@
+PROJET IA GÉNÉRATIVE MULTIMODALE ET AGENTIQUE
+
+3. Schéma d’architecture fonctionnelle
+
+
+
+
+
+Le flux d’indexation part du PDF vers LlamaIndex, puis vers les embeddings et PGVector. Le flux de
+requête part de Streamlit, passe par l’agent LangChain, le LLM et la recherche vectorielle, avant de
+retourner une réponse à l’utilisateur.
